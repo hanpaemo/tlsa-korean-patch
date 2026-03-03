@@ -1,0 +1,9 @@
+__pycache__/
+*.7z
+*.zip
+*.png
+*.txt
+thalast/
+한패모_TLSA-한글패치/
+credit-plugin/bin/
+credit-plugin/obj/
