@@ -4,6 +4,16 @@
 
 ---
 
+## 📸 스크린샷
+
+| | |
+|---|---|
+| ![메인 메뉴](assets/screenshots/1.jpg) | ![설정 - 컨트롤러](assets/screenshots/2.jpg) |
+| ![인게임 - 15년 후](assets/screenshots/3.jpg) | ![NPC 대화](assets/screenshots/4.jpg) |
+| ![튜토리얼 프롬프트](assets/screenshots/5.jpg) | ![아이템 루팅](assets/screenshots/6.jpg) |
+
+---
+
 ## 📋 번역 범위
 
 | 분류 | 항목 수 | 상태 |
@@ -23,7 +33,7 @@ Mikhail (행상인), Lord Zee (폐허 지도자), Jack Davis, Dr. Stedman 등
 ## 💾 설치 방법
 
 ### 필요 조건
-- PC (Windows) Steam 버전
+- PC (Windows) Steam 또는 Epic Games 버전
 - 별도 프로그램 설치 불필요 (BepInEx 포함)
 
 ### 설치 순서
@@ -51,8 +61,11 @@ A. 게임 업데이트 시 패치를 다시 설치해야 할 수 있습니다. R
 **Q. 일부 텍스트가 영어로 표시돼요**
 A. 후원자 이름 등 일부 고유명사는 의도적으로 영어 유지합니다.
 
-**Q. Steam 파일 무결성 검사 후 번역이 사라졌어요**
-A. 패치를 다시 설치하시면 됩니다. 게임 파일 자체는 수정하지 않아서 무결성 검사에 영향 없습니다.
+**Q. Epic Games 버전에서 오류가 나요 / 번역이 안 돼요**
+A. 에픽 버전은 첫 실행 시 에픽 계정 연동 팝업이 뜰 수 있습니다. 연동을 완료하면 정상 작동합니다. `Epic/Platform.prefab` 관련 오류는 패치와 무관한 게임 자체 문제이며, 계정 연동으로 해결됩니다.
+
+**Q. Steam / Epic 파일 무결성 검사 후 번역이 사라졌어요**
+A. 무결성 검사는 패치 파일을 삭제하므로, 검사 후 패치를 다시 설치하시면 됩니다.
 
 ---
 
