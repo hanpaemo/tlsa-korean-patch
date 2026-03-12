@@ -1,0 +1,284 @@
+﻿# ==============================================================================
+# 캐릭터 및 주요 인물 이름 (필수)
+# ==============================================================================
+Stedman=스테드먼
+Doctor Stedman=스테드먼 박사
+Dr. Stedman=스테드먼 박사
+Dr Stedman=스테드먼 박사
+Trinity=트리니티
+Amy=에이미
+Buzzard=버저드
+Hector=헥터
+Jack=잭
+Jack Davis=잭 데이비스
+Lord Zee=로드 지
+Mikhail=미하일
+Mikhail's=미하일의
+Ames Spencer=에임스 스펜서
+Isla Collins=아일라 콜린스
+Heinrich=하인리히
+Taylor Bush=테일러 부시
+
+# ==============================================================================
+# 장소 및 세력 (필수)
+# ==============================================================================
+The End='종말'
+The Colony=콜로니
+H.E.R.C.=H.E.R.C.
+HERC=H.E.R.C.
+Union City=유니언 시티
+Dead Zone=데드 존
+Leighton City=레이튼 시티
+The Sunken City=가라앉은 도시
+Safehouse=안전가옥
+Armory=무기고
+Workshop=작업장
+Suburbs=교외
+Neighborhood=주택가
+Outpost=전초기지
+Blockade=봉쇄선
+Warehouse=창고
+Compound=거점
+Clinic=의무실
+Auto Shop=자동차 정비소
+Gas Station=주유소
+
+# ==============================================================================
+# 핵심 게임플레이 용어 (필수)
+# ==============================================================================
+Volunteer=자원자
+Volunteers=자원자들
+Survivor=생존자
+Survivors=생존자들
+Infected=감염자
+Mutation=돌연변이
+Mutations=돌연변이
+Antiviral=항바이러스제
+Antivirals=항바이러스제
+Serum=혈청
+Antibody=항체
+Antibodies=항체
+Infection=감염
+Knowledge=지식
+Supply=보급품
+Reputation=평판
+Bounty=현상금
+Bounties=현상금
+Hardship=고난
+Hardships=고난
+Threat=위협
+Threat Tier=위협 등급
+Run=임무
+Exile=추방
+Beacon=비컨
+Supply Cache=보급품 상자
+Stash=은닉처
+Recipe=제작법
+Recipes=제작법
+Crafting=제작
+Loadout=장비
+
+# ==============================================================================
+# UI 및 시스템 용어 (필수)
+# ==============================================================================
+UI=UI
+HUD=HUD
+Health=체력
+Stamina=스태미나
+Focus=집중
+Focus Mode=집중 모드
+Durability=내구도
+Capacity=장탄수
+Reload=재장전
+Damage=피해량
+DPS=초당 피해량
+Weight=무게
+Qty=수량
+Lvl=레벨
+XP=경험치
+Upgrade=업그레이드
+Upgrades=업그레이드
+Skill=스킬
+Skills=스킬
+Perk=특전
+Perks=특전
+Attachment=부착물
+Attachments=부착물
+Slot=슬롯
+Slots=슬롯
+Category=카테고리
+Mission=임무
+Missions=임무
+Task=과제
+Tasks=과제
+Objective=목표
+Objectives=목표
+
+# ==============================================================================
+# 아이템 및 장비 종류 (확장)
+# ==============================================================================
+Item=아이템
+Items=아이템
+Gear=장비
+Weapon=무기
+Weapons=무기
+Melee Weapon=근접 무기
+Ranged Weapon=원거리 무기
+Long Gun=장총
+Pistol=권총
+Rifle=소총
+Shotgun=산탄총
+SMG=기관단총
+Flamethrower=화염방사기
+Ammo=탄약
+Ammunition=탄약
+Rounds=탄환
+Shells=산탄
+Magazine=탄창
+Suppressor=소음기
+Muzzle Brake=반동 보정기
+Tools=도구
+Consumable=소모품
+Pocketable=주머니 아이템
+Medkit=구급상자
+Bandages=붕대
+Painkillers=진통제
+Herbal Remedy=약초 치료제
+Herbal Antidote=약초 해독제
+Fuel=연료
+Battery=배터리
+Scrap=고철
+Electronics=전자부품
+Bottle=병
+Pipe=파이프
+Wrench=렌치
+Knife=칼
+Cleaver=식칼
+Machete=마체테
+Hatchet=손도끼
+Board=판자
+Brick=벽돌
+Tape=테이프
+Rag=천 조각
+Alcohol=알코올
+Hammer=망치
+Crowbar=쇠지렛대
+Sledge=대형 해머
+Knuckle Dusters=너클 더스터
+Hand Blades=손날
+MRE=전투 식량
+Chem-Light=화학 발광체
+
+# ==============================================================================
+# 플레이어 행동 및 상태 (확장)
+# ==============================================================================
+Sprint=달리기
+Dodge=구르기
+Aim=조준
+Fire=사격
+Melee=근접 공격
+Interact=상호작용
+Stealth=은신
+Search=수색
+Encumbered=과중
+Exhaustion=탈진
+Bleed=출혈
+Poison=독
+Poisoned=중독됨
+Flinch=움찔
+Knockdown=넉다운
+Stun=기절
+Equip=장착
+Unequip=장착 해제
+Craft=제작
+Travel=이동
+
+# ==============================================================================
+# 돌연변이 및 스킬 이름 (확장)
+# ==============================================================================
+Broken Nerve=끊어진 신경
+Enlarged Fists=거대 주먹
+Thorns=가시
+Resilience=회복력
+Tunnel Vision=터널 시야
+Coalescence=융합
+Energized=활력
+Charger=돌진
+Strength=힘
+Stench=악취
+Chemical Imbalance=화학적 불균형
+Jagged=톱니
+Cornered=궁지
+Resistant Force=저항력
+Heartbeat=심장 박동
+Prey on the Weak=약자 사냥
+Rush=돌격
+Stone Skin=돌 피부
+Taste for Blood=피의 맛
+Synapses=시냅스
+Dextrous=손재주
+Brawling=난투
+Heavy Hitting=강타
+Constitution=체질
+Pyromania=방화광
+Sharpshooting=명사수
+Quick Loading=빠른 장전
+Critical Eye=날카로운 눈
+Scrounging=물품 조달
+Life Lessons=인생의 교훈
+Knowledge Retention=지식 유지
+First Aid=응급 처치
+Rapid Aid=신속 처치
+Boltcutters=볼트 커터
+Demolition=폭파
+Throwing=투척
+Pistol Shooting=권총 사격
+Long Gunnery=장총 숙련
+Machine Gunnery=기관총 숙련
+Tempering=단련
+Running Technique=달리기 기술
+Melee Technique=근접 기술
+Dodging Technique=회피 기술
+Recovery=회복
+Overcoming=극복
+Door Kicking=문 차기
+Breaching Technique=돌파 기술
+Engine Protection=엔진 보호
+Faster Ignition=빠른 시동
+Quick Fill=빠른 주유
+Fast Repair=빠른 수리
+Beeper Bomb=삐삐 폭탄
+Box Mine=상자 지뢰
+
+# ==============================================================================
+# 몬스터 및 적
+# ==============================================================================
+Rotter=썩은 놈
+Rotters=썩은 놈들
+Horde=무리
+
+# ==============================================================================
+# 기타 고유명사 및 표현
+# ==============================================================================
+The Council=의회
+Committee=위원회
+Prime Leader=프라임 리더
+General Order=일반 명령
+Operation Aftermath=애프터매스 작전
+FOB Vanguard=전방 작전 기지 뱅가드
+Green Beret=그린베레
+M1911=M1911
+Tauron 9mm=타우론 9mm
+Ambrose Shotgun=앰브로스 산탄총
+Sportshot Rifle=스포츠샷 소총
+Death Adder=데스 애더
+Pipe Pistol=파이프 권총
+G17 Pistol=G17 권총
+MAC-10=MAC-10
+.45 Tactical=.45 택티컬
+UMP 45=UMP 45
+Flare Gun=조명총
+M16=M16
+Sawn Off=소드오프 산탄총
+M4A1=M4A1
+War Hammer=워해머

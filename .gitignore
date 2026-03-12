@@ -2,8 +2,10 @@ __pycache__/
 *.7z
 *.zip
 *.png
-*.txt
 thalast/
-한패모_TLSA-한글패치/
 credit-plugin/bin/
 credit-plugin/obj/
+
+# 배포 폴더는 트래킹 (번역 파일 포함)
+!한패모_TLSA-한글패치/
+!한패모_TLSA-한글패치/**
